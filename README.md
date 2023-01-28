@@ -31,3 +31,11 @@ This project must at least satisfy the following minimum requirements:
 Final Deliverables:
 - Notebook file(.ipynb).
 - README.md file.
+
+## Team members.
+
+
+| Names      | Roles |
+| ----------- | ----------- |
+| Reef Alsahli      | 2charts(bar and pie)with plotly dash       |
+| Paragraph   | Text        |
